@@ -1,0 +1,4 @@
+Libraries to be installed:
+    BeautifulSoup 4
+    requests
+    fpdf2
